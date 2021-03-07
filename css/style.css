@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: rgb(98, 170, 56);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5%;
+    padding: 0;
+}
+
+#titular {
+    color: whitesmoke;
+    font-size: 20;
+}
+
+img {
+    text-align: left;
+    width: 200px;
+}
+
+li {
+    color: aliceblue;
+}
+
+
