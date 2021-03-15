@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+
+header {
+    padding: 1rem;
+    background-color: blueviolet;
+    width: 100vw;
+    height: 5rem;
+    padding-left: 3rem;
+}
+h1 {
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main {
+    margin: 5rem;
+}
+
+.parent {
+    background-color: teal;
+    border: 0.15rem black solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 15rem;
+    height: 25%;
+    display: inline-block;
+    border-radius: 1rem;
+    bottom: 0.1rem;
+    height: 60vh;
+    min-height: 30rem;
+}
+
+#title {
+    background-color: antiquewhite;
+    border: 0.15rem black solid;
+    width: 10rem;
+    height: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    bottom: 3rem;
+    left: 0.25rem;
+    right: 0.25rem;
+}
+.img{
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    bottom: 2rem;
+    border: 0.1rem black solid;
+}
